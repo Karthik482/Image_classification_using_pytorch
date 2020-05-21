@@ -12,3 +12,4 @@ The neural network has 2 hidden layers and 10 output values(10 features). For bo
 We have set backpropagation through Adam optimizer and to ovoid overfit we have set dropout function.
 
 ![image](https://user-images.githubusercontent.com/55606550/82617065-eb1d7080-9b9c-11ea-8ccc-a74c6cc51d81.png)
+![image](https://user-images.githubusercontent.com/55606550/82617208-5cf5ba00-9b9d-11ea-8231-b791ebb221c4.png)
